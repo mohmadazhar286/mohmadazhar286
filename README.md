@@ -9,9 +9,9 @@ AI Researcher | Systems Thinker | Autonomous Systems | Personality & Language Re
 
 📚 Recent Projects:
 - **PersonaG**: A graph-based personality recognition + generation model
-- **BumbleBee**: A lightweight cryptographic primite for Internet of Things
+- **BumbleBee**: A lightweight cryptographic primitive for Internet of Things
 - **ResCite**: End-to-End Repository for dissertations and thesis submission
 
-📫 Connect with me: [LinkedIn](mohmadazhar286) • [Twitter](mohmadazhar286) • [Email](mohmadazhar286.gmail.com)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/mohmadazhar286) • [Twitter](https://x.com/mohmadazhar286) • [Email](mailto:mohmadazhar286.gmail.com)
 
 💡 “To truly value something, you must first value yourself.”
