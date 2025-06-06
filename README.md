@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm Mohmad Azhar Teli
 
-<!--
-**mohmadazhar286/mohmadazhar286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Researcher | Systems Thinker | Autonomous Systems | Personality & Language Research
 
-Here are some ideas to get you started:
+🔬 Currently working on:
+- 🤖 Computer Vision with YOLO | RT-DETR
+- 🧠 Personality-Aware NLP with Graph2Seq
+- ⚙️ Sensor Fusion using Vision Transformers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Recent Projects:
+- **PersonaG**: A graph-based personality recognition + generation model
+- **BumbleBee**: A lightweight cryptographic primite for Internet of Things
+- **ResCite**: End-to-End Repository for dissertations and thesis submission
+
+📫 Connect with me: [LinkedIn](mohmadazhar286) • [Twitter](mohmadazhar286) • [Email](mohmadazhar286.gmail.com)
+
+💡 “To truly value something, you must first value yourself.”
